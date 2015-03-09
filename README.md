@@ -1,5 +1,9 @@
 # toknot.js
 
+#License
+New BSD License (http://toknot.com/LICENSE.txt)
+
+---
 ##Toknot javascript 库文档
 本文档为 Toknot/Admin/Static/js/toknot.js 的类参考
 
